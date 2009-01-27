@@ -9,3 +9,6 @@ configure
 install-sh
 missing
 *~
+font-sony-misc-*.tar.*
+ChangeLog
+tags
