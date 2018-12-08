@@ -23,7 +23,7 @@ dnl Process this file with autoconf to create configure.
 
 AC_PREREQ([2.57])
 AC_INIT([font-sony-misc], [1.0.3],
-        [https://bugs.freedesktop.org/enter_bug.cgi?product=xorg],
+        [https://gitlab.freedesktop.org/xorg/font/sony-misc/issues],
         [font-sony-misc])
 AM_INIT_AUTOMAKE([foreign dist-bzip2])
 
